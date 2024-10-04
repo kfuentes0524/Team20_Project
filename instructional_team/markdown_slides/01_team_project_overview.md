@@ -13,49 +13,159 @@ $ echo "Data Sciences Institute"
 
 ## Today
 
-1. Team Project Guidelines
+1. Team Project Overview
 
 2. Developing a Project Plan
 
-3. Git Review: Resolving Merge Conflicts
+3. Project Requirements
+
+4. Working as a Team
 
 ---
 
-# Team Project Guidelines
+# Team Project Overview
+
+__Goal:__ To enhance your portfolio by showcasing this team project as evidence of your ability to deliver real-world value to an employer.
 
 ---
 
-### Goal
 
-___Develop a program that uses data creatively to solve a problem or provide insights that have a positive business impact.___
 
----
+# What is a Good Portfolio?
 
-### Learning Outcomes
+A good portfolio showcases your best work and highlights skills that are highly valued by employers in data science and machine learning. It demonstrates your ability to handle real-world tasks, making you an attractive candidate for employment.
 
-1. Resolve merge conflicts.
-
-2. Describe common problems or challenges a team encounters when working collaboratively using Git and GitHub.
-
-3. Create a program to analyze a dataset with contributions from multiple team members.
+**Personalize Your Portfolio:**
+- **Remove unnecessary content:** For instance, if you fork a repository to copy the structure, delete any files that are not required for your unique project.
+- **Highlight your unique contributions and skills:** This personalization shows employers that you're not just completing assignments but are engaged and innovating on your projects.
 
 ---
 
-### Key Questions
 
-* How will you select your dataset?
+# Types of Projects to Include in Your Portfolio
 
-* How will you make sure all team members can contribute to the project?
+Including a diverse range of projects in your portfolio can significantly enhance your appeal to potential employers. Consider including a variety of project types to demonstrate the breadth and depth of your data science skills:
 
-* How will you make decisions?
+1. **Data Cleaning Project:** Show your ability to prepare data for analysis.
+2. **Data Storytelling and Visualization Project:** Highlight your skills in interpreting and presenting data in compelling ways.
+3. **ML Modeling:** Demonstrate your proficiency in building and tuning models.
+4. **Group Project:** Showcase your teamwork and collaboration skills. (already doing this! 🥳)
 
-* What is the question you're trying to answer through your data analysis?
+For more, read "[How to Create a Project Portfolio for Data Science Job Applications](https://www.dataquest.io/blog/career-guide-data-science-projects-portfolio/)"
 
-* What tasks need to be completed to get to your final output?
 
 ---
 
-### Requirements
+
+# Demonstrating the Business Impact of Your Projects
+
+Understanding and articulating the business value of your data science and machine learning projects is crucial for two main reasons:
+
+### Benefits:
+
+- **Educational**: Apply new technologies and methodologies from both data science and machine learning.
+- **Employability**: Showcase your ability to solve real-world problems, making you attractive to potential employers.
+
+Highlight your skills through projects by using relevant industry examples and metrics, such as operational improvements, technical innovations, or strategic insights.
+
+<!-- Speaker notes: Emphasize aligning data science and machine learning projects with business goals. Highlight that demonstrating business impact is about tackling complex problems and delivering meaningful insights. This supports your professional development and attractiveness to employers. Provide examples of techniques and frameworks used to showcase hands-on experience and technical proficiency. -->
+
+---
+
+# Examples Across Sectors (Part 1)
+
+### Healthcare Example
+"Improved patient outcomes by developing a predictive model using Python and scikit-learn. Data was preprocessed using pandas to handle missing values and standardize features. Logistic regression was selected through cross-validation due to its interpretability and performance."
+
+### Retail Example
+"Optimized inventory management with SQL and Tableau. Data was cleaned and aggregated using SQL queries to identify sales patterns. Visualizations in Tableau helped to forecast demand, leading to cost savings."
+
+*⏭️ Continued on next slide...*
+
+---
+
+# Examples Across Sectors (Part 2)
+
+### Marketing Example
+Increased customer engagement by performing customer segmentation using k-means clustering with Python. Feature engineering was conducted to create meaningful segments based on purchase history and demographics. The optimal number of clusters was determined using the elbow method, which helps identify the point where adding more clusters does not significantly improve the model.
+
+---
+
+# Selecting Projects That Showcase Your Skills
+
+Choosing the right projects for your portfolio is crucial. Each project should:
+
+- **Solve Real Problems**: Use actual datasets to address genuine issues in your field. (*examples in the next slide*)
+- **Demonstrate Industry Relevance**: Select projects that are pertinent to your specific area, such as marketing analytics for marketers or predictive maintenance for engineers.
+- **Provide Actionable Insights**: Focus on projects that deliver clear, practical outcomes that demonstrate your ability to impact real-world scenarios.
+
+These criteria ensure that your projects not only highlight your technical skills but also your understanding of and adaptability to industry-specific challenges, making you a valuable candidate to potential employers.
+
+---
+
+# Some Open Source Real Datasets
+
+- **University of Toronto Libraries Data**: [onesearch.library.utoronto.ca/researchdata](https://onesearch.library.utoronto.ca/researchdata/accessing-data-and-tools)
+- **Open Government Data Portal (Canada)**: [open.canada.ca/data](https://open.canada.ca/data)
+- **Ontario Data Catalogue**: [data.ontario.ca](https://data.ontario.ca)
+- **Kaggle Datasets**: [kaggle.com/datasets](https://www.kaggle.com/datasets)
+- **UCI Machine Learning Repository**: [archive.ics.uci.edu/ml](https://archive.ics.uci.edu/ml/index.php)
+- **World Bank Open Data**: [data.worldbank.org](https://data.worldbankzorg)
+
+Utilize these resources to find relevant datasets that can help you build projects showcasing your ability to solve real-world problems, demonstrate industry relevance, and provide actionable insights.
+
+---
+
+# Showcase Projects That Use Diverse Data Types
+
+Enhance your projects by effectively using a mix of structured, unstructured, and time series data:
+
+- **Structured Data**: Employ database data for clear, quantifiable insights.
+- **Unstructured Data**: Add depth with text, images, or videos.
+- **Time Series Data**: Utilize data in sequential order for trend analysis and forecasting.
+
+Select data types strategically to align with your project's objectives. Ensure each type contributes to a clear and coherent narrative, avoiding unnecessary complexity to maintain focus and utility.
+
+---
+
+# Demonstrating Technical and Business Skills
+
+- **Demonstrate Coding Proficiency**: All projects should showcase your ability to write clean, efficient, and well-documented code.
+- **Showcase Communication Skills**: All projects should effectively communicated complex data-driven insights to non-technical team members.
+
+Your ability to document code clearly and communicate effectively can drastically reduce onboarding times for new team members and help non-technical stakeholders make informed decisions, thereby enhancing overall project success and team efficiency.
+
+---
+
+# Creating business value
+* Creating business value means allocating resources (eg. money, employees, time, hardware) in the way that generates the best return.
+    * As a technical team, it is your job to enable the strategic decision makers with the information they need.
+
+![w:650 center](./images/business_data_context.png)
+
+---
+
+# ✅ Developing a project plan
+
+1. Understand the business context.
+2. Identify an opportunity.
+3. Scope your analysis.
+4. Develop your solution.
+5. Present results and recommendations.
+
+### 📋 To keep in mind:
+
+* Are your insights *actionable?*
+* How robust is your analysis? *Quantify!*
+* What are the *risks* and *unknowns*?
+
+---
+
+# [PRESENT EXAMPLE OF PREVIOUS PROJECT]
+
+---
+
+# Project Requirements
 
 1. Each team member must __create, review, and merge a pull request__.
 
@@ -63,37 +173,138 @@ ___Develop a program that uses data creatively to solve a problem or provide ins
 
 3. Each project must __design, implement, and test regression__.
 
-4. Each team must __create a README__ that explains  the project, how the team approached their project, and any relevant details to their team project, including the team's Rules of Engagement. Keep in mind that the repo will be on each team member's profile, so be thoughtful about the details you include here.
+4. Each team must __create a README__ that explains  the project, how the team approached their project, and any relevant details to their team project. Keep in mind that the repo will be on each team member's profile, so be thoughtful about the details you include here.
 
 5. Each team member must __create a video__ about their learnings and experience.
 
 ---
 
-### Submission
+# Crafting a Comprehensive Main README File
 
-* **One** person from each team must fork the [`team_project`](https://github.com/UofT-DSI/team_project) Git repository. Other team members should clone the forked repository.
+- **Purpose & Overview:** Introduce the project with essential details, concise description and a project objective.
+- **Goals & Objectives:** Articulate what the project aims to achieve.
+- **Techniques & Technologies:** Highlight the tools and methods used.
+- **Key Findings & Instructions:** Summarize outcomes and provide setup instructions.
+- **Visuals & Credits:** Enhance with visuals; acknowledge contributors.
 
-* The folder structure of your forked repository may be modified to suit your needs.
-
-* Follow the [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md) to submit your team project when it is completed. The branch you merge to the **main** branch of your forked repository (**NOT** to the DSI repository) should be called `team-project-1`.
-
----
-
-### Refer to Git repository for more details.
-
----
-
-# Developing a Project Plan
+<!-- 
+Focus on the essence of what makes a README effective: clarity and conciseness. A well-organized README provides a snapshot of the project, helping others quickly understand its value and how to engage with it. Ensure that each element is presented in a way that contributes to an overall understanding of the project.
+-->
 
 ---
 
-### How do we create business value?
-* We want to allocate our resources (eg. money, employees) in the way that generates the most value.
-    * How do we enable the decision makers?
+# Better Documentation - README
 
-*Strategic decisions should be based on data!*
+While **you can have multiple README files** in your repository, include only one README file per folder to keep things clean and simple. This structure showcases your ability to manage and present complex information effectively, increasing your appeal to potential employers.
 
-![w:700 center](./images/business_data_context.png)
+---
+
+# Better Documentation - Comments
+
+**Effective commenting enhances code readability and maintainability, crucial for collaborative environments.**
+
+A lot of participants had code that wasn't properly commented. The idea here is that if someone with no tech background reads your code, they should get the essence of what you're doing and how the code flows. This practice not only aids in understanding but also facilitates smoother transitions and updates within team projects.
+
+📰 [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
+
+---
+## Example
+
+❌
+```
+function calculateTotal(price, quantity) {
+    return price * quantity;
+}
+
+let totalPrice = calculateTotal(25, 5);
+console.log(totalPrice); // Output: 125
+```
+
+✅
+```
+// Calculates the total cost by multiplying the price per item with the quantity
+function calculateTotal(price, quantity) {
+    return price * quantity;
+}
+
+// Example usage: Calculates the total price for 5 items at $25 each by multiplying the price
+// per item ($25) with the quantity (5), and stores the result in the totalPrice variable.
+let totalPrice = calculateTotal(25, 5);
+console.log(totalPrice); // Output: 125
+```
+
+---
+
+# Better Documentation - STAR Method
+
+- The STAR method is typically used for answering interview questions, applying this structure to your project overviews can be highly effective. 
+- By organizing your projects using the Situation, Task, Action, Result format, your portfolio essentially speaks for you, conducting a virtual interview with potential employers even in your absence. 
+- This approach ensures that employers can clearly understand the value and impact of your work, even without direct interaction.
+- Remember, the results don't have to be ground breaking, anything that showcases your abilities in data science/machine learning, even "**learning**" counts as an important result.
+
+---
+
+# Effective GitHub Repository Organization
+
+- Ensure your GitHub repository is neatly organized; avoid unused or empty folders and ensure each folder has a clear purpose.
+- Use READMEs in key folders (like `src`, `iac`, `backend`, `frontend`, etc.) to detail their contents and purpose, aiding clarity for complex sections.
+- Avoid READMEs in simple folders (like `images`, `docs`, etc.), unless there's specific information that needs to be explained.
+
+---
+
+# Submission
+
+* **One** person from each team must own the primary Git repository. Other team members should clone that repository to work on it.
+
+* There is no hard requirement for the folder structure of your project, but the best practices described today should be followed.
+
+* Follow the [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md) to submit your team project when it is completed. [Phil to update.]
+
+---
+
+## Video submission
+
+* The README should include links to each team member's video.
+
+* The location where you host it is up to you, but we strongly recommend posting your video to your YouTube account (or unlisted). That way, potential future employers will be able to access it along with your project.
+
+---
+
+# Working as a team
+
+This week will fly by quickly! How will you ensure that you can accomplish everything you need to as a team in this timeframe?
+
+---
+
+## Working as a team
+
+1. **Clear objectives and milestones**. A deadline should be set for having the project completed, and milestones should be set working backward from that.
+
+2. **Accountability**. Every action item should have someone assigned. (Of course, the assigned person can change if workloads become unbalanced!)
+
+3. **Communication of roadblocks**. It is just as important to communicate roadblocks and failures as successes. The faster problems are identified, the faster they can be addressed.
+
+---
+
+## Working as a team
+
+4. **Tracking**. Tracking your tasks is necessary to objectively assess your progress as a team. The data-driven mindset applies here too! If you fall behind, update your plan accordingly. 
+
+5. **Documentation of work**. Team members should be able to understand and continue each others' work where necessary.
+
+---
+
+# This week's schedule:
+
+__Tues, Oct. 8th:__ 1 hour of lecture, 1.5 hours of co-work.
+
+__Wed, Oct. 9th:__ 2.5 hours of co-work.
+
+__Thurs, Oct. 10th:__ 1 hour of case study, 1.5 hours of co-work.
+
+__Fri, Oct. 11th:__ 3 hours of co-work.
+
+__Sat, Oct. 12th:__ 3 hours of co-work.
 
 ---
 
@@ -113,69 +324,11 @@ ___Develop a program that uses data creatively to solve a problem or provide ins
 
 **0. Zeroth Order Ignorance (0OI): Lack of Ignorance**
 
-* You provably know something
-* The ability to prove it is necessary
-
----
-
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
-
-**1. First Order Ignorance (1OI): Lack of Knowledge**
-
-* You know that you do not know something
-* "Acknowledged ignorance"
-
----
-
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
-
-**Second Order Ignorance (2OI): Lack of Awareness**
-
-* You do not know that you do not know something
-* Metacognition: awareness of what you know and don't know
-* This is what we try to eliminate as we work through projects
-
----
-
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
-
-**Third Order Ignorance (3OI): Lack of Process**
-
-* You do not know of a suitably effective way to find out that you don’t know that you don’t know something
-* This may result in a knowledge trap
-* Finding ways to escape from this quickly is critical
-* Escaping from this is an important function of software testing: showing areas where you lack knowledge
-
----
-
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
-
-**Fourth Order Ignorance (4OI): Meta Ignorance**
-
-* You do not know about the Five Orders of Ignorance
-* Fundamental ignorance of ignorance
-
----
-
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
-
-**A "meta-model of ignorance" that can help us put the unknowns of projects into context.**
-
-* The goal is to move down the ladder to 0OI.
-* 2OI and 3OI is where we should be spending most of our production energy.
-
----
-
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
-
-**0. Zeroth Order Ignorance (0OI): Lack of Ignorance**
-
 * You know there is a door.
 * You know where the door is.
 * You can see the path to the door clearly.
 
 ![bg right contain](./images/0OI.jpg)
-
 
 ---
 
@@ -222,154 +375,37 @@ ___Develop a program that uses data creatively to solve a problem or provide ins
 
 ---
 
-# Developing a project plan
+# Leveraging Project Management Methodologies
 
-## 1. Understand the business context
+Explore methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For now, let's focus on an essential concept: **spikes**.
 
-What are companies or organizations in your industry trying to achieve? What is your organization trying to achieve?
-
----
-
-## 1. Understand the business context
-
-* What are companies or organizations in your industry trying to achieve?
-* What is your organization trying to achieve?
-* Align your goals with company values.
-
-~~**Bad Example:** We work in finance. Our company wants to make more money so we should spent half of our working days coming up with a side hustle that our company can implement.~~
-
-**Good Example:** We work in finance. Our team is not client facing and does not impact revenue directly, but our department manages overhead costs for the company and we can help try to reduce those costs.
+**Spikes** are short, time-boxed research tasks designed to answer specific questions or solve particular problems before starting the main project work.
 
 ---
 
-## 2. Identify an opportunity
+# Benefits of Spikes
 
-* Where can you add business value?
-* How do you enable informed decision making?
+- **Clarify Requirements**: Quickly gather necessary information.
+- **Solve Problems Early**: Address technical uncertainties before main development.
+- **Prevent Delays**: Avoid excessive brainstorming that can stall progress.
+- **Reduce Unknowns**: Lower the project's uncertainties.
+- **Efficient Estimates**: Provide well-constrained estimates on specific work items.
+- **Maximize Value**: A one-day spike giving 80% confidence can be more valuable than a three-day spike giving 90%.
 
----
-
-## 2. Identify an opportunity
-
-* Where can you add business value?
-* How do you enable informed decision making?
-
-~~**Bad Example:** We see that employees in the Sales Department only work from the office about half the time. Therefore we should cut their office space in half and leave every other team's space as is.~~
-
-**Good Example:** We hypthesize that office space is under-utilized, or not utilized as efficiently as it good be. We want to explore the idea of reducing overall office space while maintaining the same level of productivity and comfort for employees.
+<!-- Speaker notes: Instructor Phil noted that during Team Project 1, students often stalled for two days due to extensive brainstorming on data handling. We're discussing spikes today because they prevent such delays by providing a structured approach to gather information and clarify project scopes efficiently. It's about time-boxing the analysis and thinking time to maximize productivity. Spikes help reduce the unknowns in a project and provide well-constrained estimates on specific work items, ensuring efficient use of resources. The goal is to deliver the most value given certain resources, so a shorter spike that provides sufficient confidence can be more valuable than a longer one. -->
 
 ---
 
-## 3. Scope your analysis
+# Goals for today
 
-* What data do you need?
-* Do you have the resources to acquire additional data?
+* Understand your objective and your data.
 
----
+* Break down project into milestones and assign tasks.
 
-## 3. Scope your analysis
+* Identify spikes.
 
-* What data do you need?
-* Do you have the resources to acquire additional data?
-
-~~**Bad Example:** We should interview everyone to get their opinions on how office space is utilized.~~
-
-**Good Example:** We want to explore the data on:
-
-1. How often employees work from the office vs. work from home.
-2. Whether teams tend to all work in the office on the same days.
-3. The cost to acquire new office spaces vs. modifying existing ones.
-4. How our rate of working remotely compares with other companies and other industries.
+* Get started!
 
 ---
 
-## 4. Develop your solution
-
-* Integrate your data.
-* Illustrate your key findings in an easily interpretable way.
-
----
-
-## 4. Develop your solution
-
-* Integrate your data.
-* Illustrate your key findings in an easily interpretable way.
-
-~~**Bad Example:** We will compile the list of people who have offices, mark down whether or not they have shown up at the office for every day in the last month, and create a spreadsheet with those data.~~
-
-**Good Example:** We can compare the available office space to the space being used under a variety of conditions. This could include breaking the data down by building, floor, team, day of the week, month, and weather. We can investigate the capacity of different office layouts, and analyze the tradeoffs involved.
-
----
-
-## 5. Present results and recommendations (more on this tomorrow!)
-
-* Know your audience.
-* Clearly articulate the takeaways.
-* Highlight the value added.
-
----
-
-## 5. Present results and recommendations (more on this tomorrow!)
-
-* Know your audience.
-* Clearly articulate the takeaways.
-* Highlight the value added.
-
-~~**Bad Example:** We inform our department leaders that managers should tell employees specific days on which they need to come into the office.~~
-
-**Good Example:** You find that since office usage varies, it would be more efficient to have less office space overall but design it in a more flexible way. Each department could have designated office space and manage the allocation for individual teams.
-
----
-
-## Check: are your insights actionable?
-
-Insights are far more impactful if they are ***actionable***.
-
-* What recommendations are you making that are *within the jurisdiction* of your audience?
-* Eg. We are presenting this to our departments heads; do they have the power to implement and enforce what we are recommending?
-
----
-
-## Check: how robust is your analysis?
-
-How can you quantify the value that you are providing?
-
-* Eg. what % of operating costs do you expect to save in a year?
-* How are you justifying your metrics?
-
----
-
-## Check: what are the risks/caveats/unknowns?
-
-Are you missing data that would provide more insight?
-
-* Eg. Are there policies that have changed at the team level?
-
-Is there a risk of false correlation?
-
-* Eg. What other factors may be influencing office usage during the period of study?
-    * Vacation season?
-
-How do we monitor whether these trends continue?
-
-* Eg. How do we continue to track office space usage in a meaningful way with flexible seating?
-
-___
-
-# Summary: Developing a project plan
-
-1. Understand the business context.
-2. Identify an opportunity.
-3. Scope your analysis.
-4. Develop your solution.
-5. Present results and recommendations.
-
-### To keep in mind:
-
-* Are your insights *actionable?*
-* How robust is your analysis? *Quantify!*
-* What are the *risks/caveats/unknowns?*
-
----
-
-## `Git Review: Resolving Merge Conflicts`
+# Questions?
