@@ -48,22 +48,16 @@ Each team will submit their project at the end of the Team Project 2 module. The
 
 4. Each team must __create a README__ that explains the project, your team's approach, and any relevant details. Keep in mind that the repo will be on each team member's profile, so be thoughtful about the details you include here.
 
-5. Each team member must __create a video__ about their learnings and experience.
+5. Each team member must __create a 3-5 minute video__ about their learnings and experience. The video should answer:
+    1. What did you learn?
+    2. What challenges did you face?
+    3. How did you overcome those challenges?
+    4. If you had more time to complete your project, what would you add to it?
+    5. What strengths do you bring to a team work environment?
 
 ### Team Project 1 Milestones
 
-While there are no hard requirements for the end of the Team Project 1 module, you should think about the milestones you need to reach in Team Project 1 to set yourself up for success in Team Project 2. Specifcally, you should:
-
-1. Thoroughly understand your data and the business case for your analysis. What will the impact of your results be?
-
-2. Clean your data. Be confident in the decisions you have made while doing so (eg. default handling of NULL values).
-
-3. Test out regression analyses. It may take several tries before you are satisfied with your results and understand how you can provide the most insight. Projects are usually iterative, so dedicate time to investigation!
-
-4. Make sure your code is well commented and decisions are documented. When Team Project 2 starts, you should be able to jump right back into your project without relying on memory.
-
-5. Keep your README up to date. Not only is that easier than writing it all at the end of your project, it will help keep you on track and ensure your alignment with your business objective.
-
+While there are no hard requirements for the end of the Team Project 1 module, you should think about the milestones you need to reach in Team Project 1 to set yourself up for success in Team Project 2. Specific milestones are suggested in the [Team Project 1 Instructions](https://github.com/UofT-DSI/team_project/edit/main/team_project_1.md).
 
 ### Project Folder Structure
 
