@@ -1,77 +1,74 @@
 # Team Project
 
 ## Description
-The team project consists of two modules. Each module requires participants to apply the skills they have learned to date, and explore a dataset of their choosing. The first part of the team project involves creating a simple program with a database in order to analyze a dataset from an open source, such as Kaggle. In the second part of the team project, teams will come together again and apply the skills developed in each of the data science or machine learning foundations certificate streams. Teams will either create a data visualization or a machine learning model.
+
+The purpose of the Team Project is to promote your ability to deliver business value in a real-world context. You should include this project in your portfolio, and be comfortable presenting it to potential employers as a demonstration of your skillset.
+
+The Team Project consists of two modules, and each module requires participants to apply the skills they have learned to date. The first part of the Team Project involves exploring a dataset and creating a simple program to analyze it. In the second part of the Team Project, teams will come together again and apply the skills developed in each of the data science or machine learning foundations certificate streams. Teams will either create a data visualization or a machine learning model.
 
 Participants will work in assigned teams of 4-5. 
 
-#### Project Descriptions
+#### Module Descriptions
 
-* [First Team Project Description](./team_project_1.md)
-* [Second Team Project Description](./team_project_2.md)
+* [Team Project 1 Description](./team_project_1.md)
+* [Team Project 2 Description](./team_project_2.md)
 
-## Learning Outcomes
-By the end of Team Project Module 1, participants will be able to:
-* Resolve merge conflicts
-* Describe common problems or challenges a team encounters when working collaboratively using Git and GitHub
-* Create a program to analyze a dataset with contributions from multiple team members
+## Participant Expectations
 
-By the end of Team Project Module 2, participants will be able to:
-* Create a data visualization as a team
-* Create a machine learning model as a team
-
-### Contacts
-**Questions can be submitted to the _#cohort-3-help_ channel on Slack**
-
-* Technical Facilitator: 
-  * **Kamilah Ebrahim**(she/her)
-  kamilah.ebrahim@mail.utoronto.ca
-
-* Learning Support Staff:
-
-  * **Farzaneh Hashemi** (she/her )
-  fhashemi.ma@gmail.com
-  * **Tong Su** (she/her)
-  tong.su@mail.utoronto.ca
-
-### Delivery of Team Project Modules
-
-Each Team Project module will include two live learning sessions and one case study presentation. During live learning sessions, facilitators will introduce the project, walk through relevant examples, and introduce various team skills that support project success. The remaining time will be used for teams to assemble and work on their projects, as well as get help from the facilitator or the learning support to troubleshoot any issues a team may be encountering. 
-
-Work periods will also be used as opportunities for teams to collaborate and work together, while accessing learning support. 
-
-### Schedule
-
-|Day 1|Day 2|Day 3|Day 4|Day 5|
-|-----|-----|-----|-----|-----|
-|Live Learning Session |Live Learning Session|Case Study|Work Period|Work Period|
-
-## Requirements
-* Participants are expected to attend live learning sessions and the case study as part of the learning experience. Participants are encouraged to use the scheduled work period time to complete their projects.
+* Participants are expected to attend live learning sessions and the case study as part of the learning experience. Participants are expected to use the rest of the scheduled work period time to complete their projects.
 * Participants are encouraged to ask questions and collaborate with others to enhance learning.
 * Participants must have a computer and an internet connection to participate in online activities.
-* Participants must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
+* Participants must not use generative AI such as ChatGPT to generate code. It should be used as a supportive tool to seek out answers to questions you may have.
 * We expect participants to have completed the [onboarding repo](https://github.com/UofT-DSI/onboarding/tree/main/onboarding_documents).
 * We encourage participants to default to having their camera on at all times, and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
 
-### How to get help
-![image](/steps-to-ask-for-help.png)
+## Learning Outcomes
+By the end of Team Project Module 1, participants will be able to:
 
-## Folder Structure
+* Work through common problems or challenges a team encounters when collaborating using Git and GitHub, including merge conflicts.
+* Understand your business case and dataset.
+* Create a program to analyze a dataset with contributions from multiple team members.
 
-### Project 1
-```markdown
-|-- data
-|---- processed
-|---- raw
-|---- sql
-|-- reports
-|-- src
-|-- README.md
-|-- .gitignore
-```
+By the end of Team Project Module 2, participants will be able to:
 
-### Project 2
+* Create a data visualization as a team.
+* Create a machine learning model as a team.
+
+## Requirements
+
+### Final Project
+
+Each team will submit their project at the end of the Team Project 2 module. The requirements for this final submission are:
+
+1. Each team member must __submit one Pull Request__, including writing a proper description.
+
+2. Each project must __design, implement, and test regression__.
+
+3. Each team must create a __data visualization__ or __machine learning model__.
+
+4. Each team must __create a README__ that explains the project, your team's approach, and any relevant details. Keep in mind that the repo will be on each team member's profile, so be thoughtful about the details you include here.
+
+5. Each team member must __create a video__ about their learnings and experience.
+
+### Team Project 1 Milestones
+
+While there are no hard requirements for the end of the Team Project 1 module, you should think about the milestones you need to reach in Team Project 1 to set yourself up for success in Team Project 2. Specifcally, you should:
+
+1. Thoroughly understand your data and the business case for your analysis. What will the impact of your results be?
+
+2. Clean your data. Be confident in the decisions you have made while doing so (eg. default handling of NULL values).
+
+3. Test out regression analyses. It may take several tries before you are satisfied with your results and understand how you can provide the most insight. Projects are usually iterative, so dedicate time to investigation!
+
+4. Make sure your code is well commented and decisions are documented. When Team Project 2 starts, you should be able to jump right back into your project without relying on memory.
+
+5. Keep your README up to date. Not only is that easier than writing it all at the end of your project, it will help keep you on track and ensure your alignment with your business objective.
+
+
+### Project Folder Structure
+
+Each team is responsible for creating their own Git repository for the Team Project. The following is a good starting point for the folder structure, however the structure is ultimately up to each team. You should structure your project in a way that makes sense for your business case, ensure it is clean, and remove any unused folders.
+
 ```markdown
 |-- data
 |---- processed
@@ -92,4 +89,33 @@ Work periods will also be used as opportunities for teams to collaborate and wor
 * **src:** Project source code
 * README: This file!
 * .gitignore: Files to exclude from this folder, specified by the Technical Facilitator
+
+## Logistics 
+
+### Contacts
+**Questions can be submitted to the _#cohort-4-help_ channel on Slack**
+
+* Technical Facilitator: 
+  * **Phil Van-Lane**(he/him)
+  phil.vanlane@mail.utoronto.ca
+
+* Learning Support Staff:
+
+  * **Aditya Kulkarni** ()
+  aditya.kulkarni@mail.utoronto.ca
+  * **Ananya Jha** ()
+  ananya.jha@mail.utoronto.ca
+  * **Taneea Agrawaal** (she/her)
+  taneea@cs.toronto.edu
+
+### Delivery of Team Project Modules
+
+Each Team Project module will include one or two live learning sessions and one case study presentation. During live learning sessions, facilitators will introduce the project, walk through relevant examples, and introduce various team skills that support project success. The remaining time will be used for teams to assemble and work on their projects, as well as get help from the facilitator or the learning support to troubleshoot any issues a team may be encountering. 
+
+Work periods will also be used as opportunities for teams to collaborate and work together, while accessing learning support. 
+
+### How to get help
+![image](/steps-to-ask-for-help.png)
+
+
 

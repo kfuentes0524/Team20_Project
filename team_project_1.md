@@ -74,7 +74,13 @@ By the end of team project, participants will be able to:
 * Each team member must write one PR description
 * Each project must design, implement, and test regression
 * Each team must create a README that explains the project, how the team approached their project, and any relevant details to their team project, including the team's Rules of Engagement. Keep in mind that the repo will be on each team member's profile, so be thoughtful about the details you include here. 
-* Each team member must create a video about their learnings and experience 
+* Each team member must create a video about their learnings and experience
+
+## Schedule
+
+|Day 1|Day 2|Day 3|Day 4|Day 5|
+|-----|-----|-----|-----|-----|
+|Live Learning Session |Live Learning Session|Case Study|Work Period|Work Period|
 
 ## Resources
 
