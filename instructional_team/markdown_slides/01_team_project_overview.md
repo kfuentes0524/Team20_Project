@@ -72,6 +72,15 @@ Highlight your skills through projects by using relevant industry examples and m
 
 ---
 
+# Demonstrating the Business Impact of Your Projects
+
+* Creating business value means allocating resources (eg. money, employees, time, hardware) in the way that generates the best return.
+    * As a technical team, it is your job to enable the strategic decision makers with the information they need.
+
+![w:650 center](./images/business_data_context.png)
+
+---
+
 # Examples Across Sectors (Part 1)
 
 ### Healthcare Example
@@ -103,19 +112,6 @@ These criteria ensure that your projects not only highlight your technical skill
 
 ---
 
-# Some Open Source Real Datasets
-
-- **University of Toronto Libraries Data**: [onesearch.library.utoronto.ca/researchdata](https://onesearch.library.utoronto.ca/researchdata/accessing-data-and-tools)
-- **Open Government Data Portal (Canada)**: [open.canada.ca/data](https://open.canada.ca/data)
-- **Ontario Data Catalogue**: [data.ontario.ca](https://data.ontario.ca)
-- **Kaggle Datasets**: [kaggle.com/datasets](https://www.kaggle.com/datasets)
-- **UCI Machine Learning Repository**: [archive.ics.uci.edu/ml](https://archive.ics.uci.edu/ml/index.php)
-- **World Bank Open Data**: [data.worldbank.org](https://data.worldbankzorg)
-
-Utilize these resources to find relevant datasets that can help you build projects showcasing your ability to solve real-world problems, demonstrate industry relevance, and provide actionable insights.
-
----
-
 # Showcase Projects That Use Diverse Data Types
 
 Enhance your projects by effectively using a mix of structured, unstructured, and time series data:
@@ -137,15 +133,7 @@ Your ability to document code clearly and communicate effectively can drasticall
 
 ---
 
-# Creating business value
-* Creating business value means allocating resources (eg. money, employees, time, hardware) in the way that generates the best return.
-    * As a technical team, it is your job to enable the strategic decision makers with the information they need.
-
-![w:650 center](./images/business_data_context.png)
-
----
-
-# ✅ Developing a project plan
+# ✅ Developing a Project Plan
 
 1. Understand the business context.
 2. Identify an opportunity.
@@ -161,21 +149,71 @@ Your ability to document code clearly and communicate effectively can drasticall
 
 ---
 
-# [PRESENT EXAMPLE OF PREVIOUS PROJECT]
+# Project Examples
+
+[Mortgage Risk Assessment Project](https://github.com/movcha/team_project)
+(Cohort 3)
+
+[Mexican Government Report Text Analysis](https://github.com/PhantomInsights/mexican-government-report)
+(independent)
+
+---
+
+# Some Open Source Real Datasets
+
+- **University of Toronto Libraries Data**: [onesearch.library.utoronto.ca/researchdata](https://onesearch.library.utoronto.ca/researchdata/accessing-data-and-tools)
+- **Open Government Data Portal (Canada)**: [open.canada.ca/data](https://open.canada.ca/data)
+- **Ontario Data Catalogue**: [data.ontario.ca](https://data.ontario.ca)
+- **Kaggle Datasets**: [kaggle.com/datasets](https://www.kaggle.com/datasets)
+- **UCI Machine Learning Repository**: [archive.ics.uci.edu/ml](https://archive.ics.uci.edu/ml/index.php)
+- **World Bank Open Data**: [data.worldbank.org](https://data.worldbankzorg)
 
 ---
 
 # Project Requirements
 
-1. Each team member must __create, review, and merge a pull request__.
+By the end of ***Project 2***:
 
-2. Each team member must __write one PR description__.
+1. Each team member must __submit one Pull Request__, including writing a proper description.
 
-3. Each project must __design, implement, and test regression__.
+2. Each project must __design, implement, and test regression__.
 
-4. Each team must __create a README__ that explains  the project, how the team approached their project, and any relevant details to their team project. Keep in mind that the repo will be on each team member's profile, so be thoughtful about the details you include here.
+3. Each team must create a __data visualization__ or __machine learning model__.
+
+4. Each team must __create a README__ that explains the project, your team's approach, and any relevant details. Keep in mind that the repo will be on each team member's profile, so be thoughtful about the details you include here.
 
 5. Each team member must __create a video__ about their learnings and experience.
+
+---
+
+# Project Requirements
+
+***There are no requirements for the end of Project 1!***
+However, you should think about the milestones you need to reach in Project 1
+to set yourself up for success in Project 2.
+
+1. Thoroughly understand your data and the business case for your analysis. What will the impact of your results be?
+
+2. Clean your data. Be confident in the decisions you have made while doing so (eg. default handling of NULL values).
+
+3. Test out regression analyses. It may take several tries before you are satisfied with your results and understand how you can provide the most insight. Projects are usually iterative, so dedicate time to investigation!
+
+---
+
+***There are no requirements for the end of Project 1!***
+However, you should think about the milestones you need to reach in Project 1
+to set yourself up for success in Project 2.
+
+4. Make sure your code is well commented and decisions are documented. When Team Project 2 starts, you should be able to jump right back into your project without relying on memory.
+
+5. Keep your README up to date. Not only is that easier than writing it all at the end of your project, it will help keep you on track and ensure your alignment with your business objective.
+
+---
+
+## Merge Conflicts
+
+It is likely that you will encounter merge conflicts when combining your work as a team.
+Make sure you've reviewed the Git material regarding how to resolve merge conflicts properly!
 
 ---
 
@@ -203,7 +241,7 @@ While **you can have multiple README files** in your repository, include only on
 
 **Effective commenting enhances code readability and maintainability, crucial for collaborative environments.**
 
-A lot of participants had code that wasn't properly commented. The idea here is that if someone with no tech background reads your code, they should get the essence of what you're doing and how the code flows. This practice not only aids in understanding but also facilitates smoother transitions and updates within team projects.
+If someone with no tech background reads your code, they should get the essence of what you are doing and how the code flows. This practice not only aids in understanding but also facilitates smoother transitions and updates within team projects.
 
 📰 [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
 
@@ -237,7 +275,7 @@ console.log(totalPrice); // Output: 125
 
 # Better Documentation - STAR Method
 
-- The STAR method is typically used for answering interview questions, applying this structure to your project overviews can be highly effective. 
+- The STAR method is typically used for answering interview questions, and applying this structure to your project overviews can be highly effective. 
 - By organizing your projects using the Situation, Task, Action, Result format, your portfolio essentially speaks for you, conducting a virtual interview with potential employers even in your absence. 
 - This approach ensures that employers can clearly understand the value and impact of your work, even without direct interaction.
 - Remember, the results don't have to be ground breaking, anything that showcases your abilities in data science/machine learning, even "**learning**" counts as an important result.
@@ -252,51 +290,41 @@ console.log(totalPrice); // Output: 125
 
 ---
 
-# Submission
+# Project Structure
 
-* **One** person from each team must own the primary Git repository. Other team members should clone that repository to work on it.
+* **One** person from each team must host the primary Git repository. Other team members should clone that repository to work on it.
 
-* There is no hard requirement for the folder structure of your project, but the best practices described today should be followed.
-
-* Follow the [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md) to submit your team project when it is completed. [Phil to update.]
+* There is no hard requirement for the folder structure of your project, but best practices should be followed.
 
 ---
 
-## Video submission
-
-* The README should include links to each team member's video.
-
-* The location where you host it is up to you, but we strongly recommend posting your video to your YouTube account (or unlisted). That way, potential future employers will be able to access it along with your project.
-
----
-
-# Working as a team
+# Working as a Team
 
 This week will fly by quickly! How will you ensure that you can accomplish everything you need to as a team in this timeframe?
 
 ---
 
-## Working as a team
+## Working as a Team
 
-1. **Clear objectives and milestones**. A deadline should be set for having the project completed, and milestones should be set working backward from that.
+1. **Clear objectives and milestones**. Milestones should be set working backward from the final project goal and deadline.
 
-2. **Accountability**. Every action item should have someone assigned. (Of course, the assigned person can change if workloads become unbalanced!)
+2. **Accountability**. Every action item should have someone assigned. (Of course, the assigned person can change if workloads become unbalanced.)
 
 3. **Communication of roadblocks**. It is just as important to communicate roadblocks and failures as successes. The faster problems are identified, the faster they can be addressed.
 
 ---
 
-## Working as a team
+## Working as a Team
 
 4. **Tracking**. Tracking your tasks is necessary to objectively assess your progress as a team. The data-driven mindset applies here too! If you fall behind, update your plan accordingly. 
 
-5. **Documentation of work**. Team members should be able to understand and continue each others' work where necessary.
+5. **Documentation**. Team members should be able to understand and continue each others' work where necessary.
 
 ---
 
 # This week's schedule:
 
-__Tues, Oct. 8th:__ 1 hour of lecture, 1.5 hours of co-work.
+__Tues, Oct. 8th:__ 1 hour of content delivery, 1.5 hours of co-work.
 
 __Wed, Oct. 9th:__ 2.5 hours of co-work.
 
@@ -305,6 +333,12 @@ __Thurs, Oct. 10th:__ 1 hour of case study, 1.5 hours of co-work.
 __Fri, Oct. 11th:__ 3 hours of co-work.
 
 __Sat, Oct. 12th:__ 3 hours of co-work.
+
+---
+
+# Handling Uncertainty in Your Project
+
+Throughout your project, there will be moments when you are unsure of how to proceed, or what task to work on next. The _Orders of Ignorance_ is a concept that can help guide you in these situations.
 
 ---
 
@@ -396,7 +430,7 @@ Explore methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For 
 
 ---
 
-# Goals for today
+# Goals for Today
 
 * Understand your objective and your data.
 
