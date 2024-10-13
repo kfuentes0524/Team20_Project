@@ -324,15 +324,15 @@ This week will fly by quickly! How will you ensure that you can accomplish every
 
 # This week's schedule:
 
-__Tues, Oct. 8th:__ 1 hour of content delivery, 1.5 hours of co-work.
+__Tues, Oct. 15th:__ 1 hour of content delivery, 1.5 hours of co-work.
 
-__Wed, Oct. 9th:__ 2.5 hours of co-work.
+__Wed, Oct. 16th:__ 2.5 hours of co-work.
 
-__Thurs, Oct. 10th:__ 1 hour of case study, 1.5 hours of co-work.
+__Thurs, Oct. 17th:__ 1 hour of case study, 1.5 hours of co-work.
 
-__Fri, Oct. 11th:__ 3 hours of co-work.
+__Fri, Oct. 18th:__ 3 hours of co-work.
 
-__Sat, Oct. 12th:__ 3 hours of co-work.
+__Sat, Oct. 19th:__ 3 hours of co-work.
 
 ---
 
