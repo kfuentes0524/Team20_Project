@@ -29,14 +29,12 @@ __Goal:__ To enhance your portfolio by showcasing this team project as evidence 
 
 ---
 
-
-
 # What is a Good Portfolio?
 
 A good portfolio showcases your best work and highlights skills that are highly valued by employers in data science and machine learning. It demonstrates your ability to handle real-world tasks, making you an attractive candidate for employment.
 
 **Personalize Your Portfolio:**
-- **Remove unnecessary content:** For instance, if you fork a repository to copy the structure, delete any files that are not required for your unique project.
+- **Remove unnecessary content:** As you work on your project, ensure that any unused files or folders are deleted to keep your repository clean and professional.
 - **Highlight your unique contributions and skills:** This personalization shows employers that you're not just completing assignments but are engaged and innovating on your projects.
 
 ---
@@ -151,6 +149,8 @@ Your ability to document code clearly and communicate effectively can drasticall
 
 # Project Examples
 
+[TTC Transit Delay Project](https://github.com/JasonYao3/TTC_transit_delay_proj)
+
 [Mortgage Risk Assessment Project](https://github.com/movcha/team_project)
 (Cohort 3)
 
@@ -160,6 +160,8 @@ Your ability to document code clearly and communicate effectively can drasticall
 ---
 
 # Some Open Source Real Datasets
+
+*More will be provided to you*
 
 - **University of Toronto Libraries Data**: [onesearch.library.utoronto.ca/researchdata](https://onesearch.library.utoronto.ca/researchdata/accessing-data-and-tools)
 - **Open Government Data Portal (Canada)**: [open.canada.ca/data](https://open.canada.ca/data)
