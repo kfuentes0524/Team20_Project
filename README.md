@@ -1,6 +1,6 @@
-# Team Project
+# Team Project Module
 
-## Description
+## Module Description
 
 The purpose of the Team Project is to promote your ability to deliver business value in a real-world context. You should include this project in your portfolio, and be comfortable presenting it to potential employers as a demonstration of your skillset.
 
