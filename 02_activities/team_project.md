@@ -21,6 +21,8 @@ This project should incorporate skills taught and used in the following modules:
 * Applying Statistical Concepts (Linear Regression, Classification, and Resampling)
 * Scaling to Production
 
+AND
+
 > * Visualization (Data Science Certificate)
 > * Sampling (Data Science Certificate)
 
@@ -102,7 +104,7 @@ Additionally, there are resources listed at the bottom of this page to help you 
 ---
 ## Project Folder Structure
 
-Each team is responsible for creating their own Git repository for the Team Project. The following is a good starting point for the folder structure, however the structure is ultimately up to each team. You should structure your project in a way that makes sense for your business case, ensure it is clean, and remove any unused folders.
+Each team is responsible for creating their own Git repository for the Team Project. The following is a good starting point for the folder structure, however the structure is ultimately up to each team. You should structure your project in a way that makes sense for your business case, ensure it is clean, and **remove any unused folders**.
 
 ```markdown
 |-- data
