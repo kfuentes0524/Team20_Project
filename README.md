@@ -4,7 +4,7 @@
 
 The purpose of the Team Project is to promote your ability to deliver business value in a real-world context. You should include this project in your portfolio, and be comfortable presenting it to potential employers as a demonstration of your skillset.
 
-The Team Project consists of two modules, and each module requires participants to apply the skills they have learned to date. The first part of the Team Project involves exploring a dataset and creating a simple program to analyze it. In the second part of the Team Project, teams will come together again and apply the skills developed in each of the data science or machine learning foundations certificate streams. Teams will either create a data visualization or a machine learning model.
+The Team Project consists of two modules, and each module requires participants to apply the skills you have learned to date. The first part of the Team Project involves exploring a dataset and creating a simple program to analyze it. In the second part of the Team Project, teams will come together again and apply the skills developed in each of the data science or machine learning foundations certificate streams. Teams will either create a data visualization or a machine learning model.
 
 Participants will work in assigned teams of 4-5. 
 
@@ -32,9 +32,9 @@ Participants will work in assigned teams of 4-5.
 
 * Learning Support Staff:
 
-  * **Aditya Kulkarni** ()
+  * **Aditya Kulkarni** (he/him)
   aditya.kulkarni@mail.utoronto.ca
-  * **Ananya Jha** ()
+  * **Ananya Jha** (she/her)
   ananya.jha@mail.utoronto.ca
   * **Taneea Agrawaal** (she/her)
   taneea@cs.toronto.edu
