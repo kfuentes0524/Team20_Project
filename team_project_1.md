@@ -34,7 +34,7 @@ By the end of the Team Project 1 module, participants will be able to:
 
 ## Instructions
 
-1. You will be assigned a dataset. As a team you should explore the dataset and think about the questions listed below.
+1. You will be provided a bank of carefully curated datasets. As a team you should choose a dataset, explore it, and think about the questions listed below.
 
 2. Create a new repository for your project (see the [README.md](https://github.com/UofT-DSI/team_project/blob/main/README.md) for a folder structure template you could use as a starting point).
 
