@@ -10,7 +10,7 @@ Participants will work in assigned teams of 4-5.
 
 #### Module Descriptions
 
-* [Team Project Description](./team_project.md)
+* [Team Project Description](./02_activities/team_project.md)
 
 ## Participant Expectations
 
