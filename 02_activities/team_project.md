@@ -39,7 +39,7 @@ OR
 By the end of **Part 1**, participants will be able to:
 * Work through common problems or challenges a team encounters when collaborating using Git and GitHub, including merge conflicts.
 * Understand your business case and dataset.
-* Create a program to analyze a dataset with contributions from multiple team members.
+* Perform investigative analysis on your dataset with contributions from multiple team members.
 
 ### Part 2 Learning Outcomes
 By the end of **Part 2**, participants will be able to:
