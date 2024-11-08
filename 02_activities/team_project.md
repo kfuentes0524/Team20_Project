@@ -18,7 +18,7 @@ This project should incorporate skills taught and used in the following modules:
 
 * Introduction to Building Software (Git, Shell & Python)
 * SQL
-* Applying Statistical Concepts (Linear Regression, Classification, and Resampling)
+* Linear Regression, Classification, and Resampling
 * Scaling to Production
 
 AND

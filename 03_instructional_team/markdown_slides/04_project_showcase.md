@@ -37,7 +37,7 @@ We hope you've all been doing well and have learned a lot of new and great thing
 
 The goal of the two-team project modules is to help you create a strong data science project for your portfolio. This way, employers, recruiters, HR personnel, and your network can see your skills and say, "This person is really good at what they do! 🧐"
 
-- In **Team Project 1**, we grouped you into teams based on project interests, using foundational skills from the modules you learned: Shell, Git, Python, SQL, and Applying Statistical Concepts.
+- In **Team Project 1**, we grouped you into teams based on project interests, using foundational skills from the modules you learned: Shell, Git, Python, SQL, and Linear Regression, Classification, and Resampling.
 
 - **Team Project 2** focuses on leveraging everything you’ve learned in your streams and Scaling to Production to elevate your projects. Some teams' new skills will align with their original goals, while others may choose to revise their approach. Both outcomes are valuable lessons **for your GitHub presence**.
 
