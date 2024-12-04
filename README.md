@@ -1,16 +1,16 @@
-# Team Project Module
+# Optimizing Customer Clustering for Enhanced Revenue and Engagement: A Data-Driven Approach
 
-## Module Description
+## Project Overview
 
-The purpose of the Team Project is to promote your ability to deliver business value in a real-world context. You should include this project in your portfolio, and be comfortable presenting it to potential employers as a demonstration of your skillset.
+Welcome to our project where we are building ways to identify optimal customer clusters for tailoring marketing strategies for each cluster to drive higher revenues and customer engagement. Our team together has used various robust clustering methods, have shown the data through visualization and have tested this mode rigourously to identify key trends, customer segments, and operational inefficiencies, hence enabling data-driven marketing strategies that in return attracts the customers and increase profitability.
 
-The Team Project consists of two modules, and each module requires participants to apply the skills you have learned to date. The first part of the Team Project involves exploring a dataset and creating a simple program to analyze it. In the second part of the Team Project, teams will come together again and apply the skills developed in each of the data science or machine learning foundations certificate streams. Teams will either create a data visualization or a machine learning model.
+#### Team Members
 
-Participants will work in assigned teams of 4-5. 
-
-#### Module Descriptions
-
-* [Team Project Description](./02_activities/team_project.md)
+- **Bashar Nusir**
+- **Carlos Fuentes**
+- **Minsang Kim**
+- **Priyank Srivastava**
+- **Yibin Wang**
 
 ## Participant Expectations
 
