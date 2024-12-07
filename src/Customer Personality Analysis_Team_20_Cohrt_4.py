@@ -30,20 +30,12 @@ from sklearn.cluster import KMeans
 import seaborn as sns
 import csv
 
-# Define the Location of the dataset tSV file (Tab seperated value)
-file_path = r'C:\Users\Administrator\Downloads\DSIProject\cpa.tsv'   # Original file name (marketing_campaign.csv) was modified to reflect the right file type and for ease of use.
 
-# Read the dataset and store it in alist called 'data'
-# Open the TSV file and read its contents
-with open(file_path, mode='r', newline='') as file:
-    reader = csv.reader(file, delimiter='\t')
-    data = list(reader)  # Store the data in a list
+# Define the Location of the dataset tSV file (Comma seperated value)
+file_path = r'data/Project_dataset.csv'    
 
-# Converting the list 'data' to Pandas DataFrame called 'df'
-df = pd.DataFrame(data[1:], columns=data[0])
-
-# Convert 'Income' column to numeric, handling errors
-df['Income'] = pd.to_numeric(df['Income'], errors='coerce')
+# Read the dataset 
+df = pd.read_csv(file_path)
 
 df.head()
 
