@@ -68,12 +68,12 @@ After that, profiling of clusters done by the team to better understand the clus
 ## Visualizations
 
 <p>
-  <img src="reports/Customers_Age_range.png" alt="Image 1" height="200" style="display:inline;">
-  <img src="reports/Customers_Education_level.png" alt="Image 2" height="200" style="display:inline;">
-  <img src="reports/Customers_Income.png" alt="Image 3" height="200" style="display:inline;">
-  <img src="reports/Customers_Income_range.png" alt="Image 4" height="200" style="display:inline;">
-  <img src="reports/Customers_Marital_status.png" alt="Image 5" height="200" style="display:inline;">
-  <img src="reports/Number_of_Purchases_by_Age.png" alt="Image 6" height="200" style="display:inline;">
+  <img src="reports/Customers_Age_range.png" alt="Image 1" height="200" width="300" style="display:inline;">
+  <img src="reports/Customers_Education_level.png" alt="Image 2" height="200" width="300" style="display:inline;">
+  <img src="reports/Customers_Income.png" alt="Image 3" height="200" width="300" style="display:inline;">
+  <img src="reports/Customers_Income_range.png" alt="Image 4" height="200" width="300" style="display:inline;">
+  <img src="reports/Customers_Marital_status.png" alt="Image 5" height="200" width="300" style="display:inline;">
+  <img src="reports/Number_of_Purchases_by_Age.png" alt="Image 6" height="200" width="300" style="display:inline;">
 </p>
 
 **Analysis of Customer Data**
@@ -141,12 +141,12 @@ Grouping customers based on similar traits and shared characteristics such as in
 - **Number of customers in each cluster**  
   - **Observations:** \
       The number of data points in each cluster varies significantly:
-       - Cluster 0 has the largest size with 999 data points.
-       - Cluster 1 is the smallest with 142 data points.
-       - Clusters 2 and 3 have 479 and 581 data points, respectively.
+       - Cluster 3 has the largest size with 964 data points.
+       - Cluster 2 is the smallest with 145 data points.
+       - Clusters 1 and 0 have 476 and 587 data points, respectively.
   - **Insights:**-
-       - Cluster 0: Likely represents a broad group of customers with common or average characteristics.
-       - Cluster 1: Represents a niche segment, possibly an outlier group or a specialized demographic.
+       - Cluster 3: Likely represents a broad group of customers with common or average characteristics. characteristics.
+       - Cluster 2: Represents a niche segment, possibly an outlier group or a specialized demographic.
        - Cluster sizes suggest different levels of customer importance or distinctiveness.
 
 <img src="reports/Total_No_of_Accepted_Campains_for_Each_Cluster.png" alt="Image" height="200" width="300">
