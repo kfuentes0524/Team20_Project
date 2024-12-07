@@ -153,11 +153,11 @@ Grouping customers based on similar traits and shared characteristics such as in
 
 - **Total Number of Accepted Campaigns for Each Cluster**  
   - **Observations & Insights:** \
-        - Cluster 0 has the highest number of individuals with "0 Accepted Campaigns," suggesting this group is the least responsive. \
-        - Cluster 1 is the most engaged group, with the highest representation in 2, 3, and 4 accepted campaigns. \
-        - Clusters 2 have high counts in "0 Accepted Campaigns," indicating disengagement. \
-        - Clusters 3 have high counts in "0 Accepted Campaigns," indicating disengagement. \
-        - Cluster 3 has the highest number of individuals accepting exactly 1 campaign, indicating a small but significant level of engagement.
+        - Cluster 3 has the highest number of individuals with "0 Accepted Campaigns", suggesting this group is the least responsive. \
+        - Cluster 0 follows with a significant count in "0 Accepted Campaigns", also indicating low engagement. \
+        - Cluster 2 has the highest representation in 2 and 3 accepted campaigns, suggesting it is the most engaged group. \
+        - Cluster 1 has a balanced distribution but lower engagement, with fewer individuals in higher accepted campaign counts. \
+        - Cluster 0 has a moderate number of individuals accepting exactly 1 campaign, indicating a small but notable level of engagement.
 
 
 <img src="reports/Family_Sizes_in_each_Cluster.png" alt="Image" height="200" width="300">
