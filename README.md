@@ -5,6 +5,8 @@ Welcome to the **Customer Personality Analysis Project!** This project uses a da
 Using various machine learning techniques. Our team has analyzed, cleansed and manipulated the data by adding more information based the existing data like totals, Age, …etc., and done a dimensional reduction to prepare it for clustering using KMeans and elbow methods.
 After that, profiling of clusters done by the team to better understand the clusters so that we can derive actionable recommendations for the marketing team.
 
+## Project Question
+- How can we identify optimal customer clusters using robust clustering methods, and subsequently tailor marketing strategies for each cluster to drive higher revenue and customer engagement?
 ## Team Members
 
 - **Bashar Nusir** ([bnusir](https://github.com/bnusir))
