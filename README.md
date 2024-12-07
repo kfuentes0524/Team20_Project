@@ -302,4 +302,4 @@ Partner with family-friendly brands for Cluster 0, professional networks for Clu
   - [Data folder](./data/)
   - [Source Code](./src/)
   
-## [Basic Project Plan for this project](reports/Project_Plan_Team_20_Customer_Personality_Analysis.pdf)
+### [Basic Project Plan for this project](reports/Project_Plan_Team_20_Customer_Personality_Analysis.pdf)
