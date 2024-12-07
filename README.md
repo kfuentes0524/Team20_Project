@@ -184,11 +184,11 @@ Grouping customers based on similar traits and shared characteristics such as in
     - &nbsp;&nbsp;&nbsp;&nbsp;**Profile**: Represents a low-income, low-spending group.
     - &nbsp;&nbsp;&nbsp;&nbsp;**Strategy**: Engage Cluster 0 with budget-friendly strategies.
 
- &nbsp;&nbsp; - **Cluster 1 (Magenta):**
+  &nbsp;&nbsp; - **Cluster 1 (Magenta):** 
     - &nbsp;&nbsp;&nbsp;&nbsp;**Income Range**: Centered around the middle-income range ($40,000–$80,000).
     - &nbsp;&nbsp;&nbsp;&nbsp;**Total Purchases**: Primarily between 500 and 1,500, indicating moderate spending behavior.
-    - &nbsp;&nbsp;&nbsp;&nbsp;**Profile**: Represents a mid-income, moderate-spending group.
-    - &nbsp;&nbsp;&nbsp;&nbsp; **Strategy**: Offer products or services that balance quality and affordability, with occasional premium upgrades.
+    - &nbsp;&nbsp;&nbsp;&nbsp;**Profile**: Represents a mid-income, moderate-spending group. 
+    - &nbsp;&nbsp;&nbsp;&nbsp; **Strategy**: Offer products or services that balance quality and affordability, with occasional premium upgrades. 
     
   &nbsp;&nbsp; - **Cluster 2 (Bright Orange):**
     - &nbsp;&nbsp;&nbsp;&nbsp;**Income Range**: Distributed in the upper-middle-income range ($60,000–$100,000).
@@ -196,7 +196,7 @@ Grouping customers based on similar traits and shared characteristics such as in
     - &nbsp;&nbsp;&nbsp;&nbsp;**Profile**: Represents a high-income, high-spending group.
     - &nbsp;&nbsp;&nbsp;&nbsp;**Strategy**: Target Cluster 2 for premium offerings, such as luxury products, exclusive memberships, or high-end services.
 
- &nbsp;&nbsp;- **Cluster 3 (Purple):**
+  &nbsp;&nbsp; - **Cluster 3 (Purple):**
     - &nbsp;&nbsp;&nbsp;&nbsp;**Income Range**: Spread across the middle-income range ($40,000–$90,000).
     - &nbsp;&nbsp;&nbsp;&nbsp;**Total Purchases**: Primarily between 500 and 1,500, indicating moderate to high spending.
     - &nbsp;&nbsp;&nbsp;&nbsp;**Profile**: Represents a mid-income, moderately high-spending group.
