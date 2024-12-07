@@ -264,7 +264,7 @@ Gadget and Tech Enthusiasm: Market premium gadgets (headphones, smart devices) w
 
 - [Bashar Nusir]()
 - [Carlos fuentes] ()
-- [Minsang Kim] ()
+- [Minsang Kim] (https://www.loom.com/share/a4aec0e1064d49dfac74b83d936a2fda)
 - [Priyank Srivastava] ()
 - [Yibin Wang]
 
