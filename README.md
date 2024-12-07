@@ -293,7 +293,7 @@ Partner with family-friendly brands for Cluster 0, professional networks for Clu
 ## Video Links
 
 - [Bashar Nusir]()
-- [Carlos fuentes] ()
+- [Carlos fuentes] (https://vimeo.com/1037047949/b6adc5e9ca?ts=0&share=copy)
 - [Minsang Kim] (https://www.loom.com/share/a4aec0e1064d49dfac74b83d936a2fda)
 - [Priyank Srivastava] ()
 - [Yibin Wang]
