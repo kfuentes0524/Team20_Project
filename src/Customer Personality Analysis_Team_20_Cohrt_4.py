@@ -32,7 +32,7 @@ import csv
 
 
 # Define the Location of the dataset tSV file (Comma seperated value)
-file_path = r'data/Project_dataset.csv'    
+file_path = r'./data/Project_dataset.csv'    
 
 # Read the dataset 
 df = pd.read_csv(file_path)
