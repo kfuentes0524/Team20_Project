@@ -298,7 +298,7 @@ Partner with family-friendly brands for Cluster 0, professional networks for Clu
 - [Carlos fuentes](https://vimeo.com/1037047949/b6adc5e9ca?ts=0&share=copy)
 - [Minsang Kim](https://www.loom.com/share/a4aec0e1064d49dfac74b83d936a2fda)
 - [Priyank Srivastava](https://www.loom.com/share/498f593e79404edbb4e7922e0683d992?sid=e0c61639-7ccd-473b-9f11-7abb0c8587bf)
-- [Yibin Wang]
+- [Yibin Wang](https://www.loom.com/share/cf008141aeb240faa438bf959243f546?sid=5d8940c1-694b-42be-a6e7-f79101a266e8)
 
 ## Sources and references utilized for this project 
   - [Data folder](./data/)
