@@ -297,7 +297,7 @@ Partner with family-friendly brands for Cluster 0, professional networks for Clu
 - [Bashar Nusir]()
 - [Carlos fuentes](https://vimeo.com/1037047949/b6adc5e9ca?ts=0&share=copy)
 - [Minsang Kim](https://www.loom.com/share/a4aec0e1064d49dfac74b83d936a2fda)
-- [Priyank Srivastava] ()
+- [Priyank Srivastava](https://www.loom.com/share/498f593e79404edbb4e7922e0683d992?sid=e0c61639-7ccd-473b-9f11-7abb0c8587bf)
 - [Yibin Wang]
 
 ## Sources and references utilized for this project 
