@@ -5,6 +5,8 @@ Welcome to the **Customer Personality Analysis Project!** This project uses a da
 Using various machine learning techniques. Our team has analyzed, cleansed and manipulated the data by adding more information based the existing data like totals, Age, …etc., and done a dimensional reduction to prepare it for clustering using KMeans and elbow methods.
 After that, profiling of clusters done by the team to better understand the clusters so that we can derive actionable recommendations for the marketing team.
 
+## Project Question
+- How can we identify optimal customer clusters using robust clustering methods, and subsequently tailor marketing strategies for each cluster to drive higher revenue and customer engagement?
 ## Team Members
 
 - **Bashar Nusir** ([bnusir](https://github.com/bnusir))
@@ -292,14 +294,14 @@ Use traditional approaches for Cluster 0, such as in-store displays and local pr
 Partner with family-friendly brands for Cluster 0, professional networks for Cluster 1, luxury providers for Cluster 2, and eco-friendly or tech brands for Cluster 3.
 ## Video Links
 
-- [Bashar Nusir]()
-- [Carlos fuentes] ()
-- [Minsang Kim] (https://www.loom.com/share/a4aec0e1064d49dfac74b83d936a2fda)
-- [Priyank Srivastava] ()
-- [Yibin Wang]
+- [Bashar Nusir](https://www.loom.com/share/2ed5eddba5de49d8988e5d27a493666a?sid=9af3e708-fa9a-4015-92a9-2c07f5cc99ff)
+- [Carlos fuentes](https://vimeo.com/1037047949/b6adc5e9ca?ts=0&share=copy)
+- [Minsang Kim](https://www.loom.com/share/a4aec0e1064d49dfac74b83d936a2fda)
+- [Priyank Srivastava](https://www.loom.com/share/498f593e79404edbb4e7922e0683d992?sid=e0c61639-7ccd-473b-9f11-7abb0c8587bf)
+- [Yibin Wang](https://www.loom.com/share/cf008141aeb240faa438bf959243f546?sid=5d8940c1-694b-42be-a6e7-f79101a266e8)
 
 ## Sources and references utilized for this project 
   - [Data folder](./data/)
   - [Source Code](./src/)
   
- 
+### [Basic Project Plan for this project](reports/Project_Plan_Team_20_Customer_Personality_Analysis.pdf)
